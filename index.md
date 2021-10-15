@@ -8,7 +8,7 @@ My main research interest is Information Extraction. There are subtasks like Nam
 
 ### Updates
 - June 2021 to Sep 2021: I worked as Recommender Algorithm intern in Baidu.
-- Sep 2020 to pre: Remote intern in [StatNLP](https://statnlp-research.github.io/) supevised by [Prof. Wei Lu](a super nice professor)(https://istd.sutd.edu.sg/people/faculty/lu-wei).
+- Sep 2020 to pre: Remote intern in [StatNLP](https://statnlp-research.github.io/) supevised by [Prof. Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei).
 - July 2017 to March 2019: After undergraduate, I worked as full-time Java Engineer for almost two years.
 
 ### Publication

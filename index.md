@@ -20,4 +20,4 @@ My main research interest is Information Extraction. There are subtasks like Nam
 
 ### Else
 
-My cv and PS is attached.
+My [cv](https://github.com/ccoay/ccoay.github.io/blob/main/CV.pdf) and [PS](https://github.com/ccoay/ccoay.github.io/blob/main/PS.pdf) is attached.

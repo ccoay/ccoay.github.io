@@ -1,12 +1,8 @@
 ## Hi, this is Yao's homepage.
 
-Hello, I am a final-year master student in Shanghai Jiao Tong University. Before that, my undergraduate was in Tianjin University.
+Hello, I am a final-year master student in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Before that, my undergraduate was in [Tianjin University](http://www.tju.edu.cn/).
 Currently, I am applying for PhD program(a tough process).
 
-
-You can use the [editor on GitHub](https://github.com/ccoay/ccoay.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 

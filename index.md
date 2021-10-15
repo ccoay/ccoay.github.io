@@ -2,10 +2,10 @@
 
 Hello, I am a final-year master student in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Before that, my undergraduate was in [Tianjin University](http://www.tju.edu.cn/).
 
-Currently, I am applying for PhD program(a tough process).
+Currently, I am applying for PhD program. If your are looking for PhD candidates, you can contact me. My email is (119033910058@sjtu.edu.cn).
 
 My main research interest is Information Extraction. There are subtasks like Named Entity Recognition、Relaton Extraction、Coreference Resolution and Event Extractions under IE. I am also passionate about the Semanctics and Sytactics.
-If 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

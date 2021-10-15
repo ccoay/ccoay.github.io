@@ -4,7 +4,7 @@ Hello, I am a final-year master student in [Shanghai Jiao Tong University](https
 
 Currently, I am applying for PhD program. If your are looking for PhD candidates, you can contact me. My email is (119033910058@sjtu.edu.cn).
 
-My main research interest is Information Extraction. There are subtasks like Named Entity Recognition、Relaton Extraction、Coreference Resolution and Event Extractions under IE. I am also passionate about the Semanctics and Sytactics.
+My main research interest is Information Extraction. There are subtasks like Named Entity Recognition、Relaton Extraction、Coreference Resolution and Event Extraction under IE. I am also passionate about the Semanctics and Sytactics.
 
 ### Updates
 - Jun 2021 to Sep 2021: I worked as Recommender Algorithm intern in Baidu.

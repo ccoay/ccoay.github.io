@@ -14,10 +14,11 @@ My main research interest is Information Extraction. There are subtasks like Nam
 ### Educations
 - Shangai Jiao Tong University, master in Computer Science (Current), Sep 2019 - Mar 2022 (Expected)
 - Tianjin University, Bachelor in Information Management, Sep 2013 - Jun 2017
+
 ### Publication
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ccoay/ccoay.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Else
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My cv and PS is attached.

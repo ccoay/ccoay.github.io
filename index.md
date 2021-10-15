@@ -4,7 +4,8 @@ Hello, I am a final-year master student in [Shanghai Jiao Tong University](https
 
 Currently, I am applying for PhD program(a tough process).
 
-
+My main research interest is Information Extraction. There are subtasks like Named Entity Recognition、Relaton Extraction、Coreference Resolution and Event Extractions under IE. I am also passionate about the Semanctics and Sytactics.
+If 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

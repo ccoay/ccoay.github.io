@@ -7,28 +7,9 @@ Currently, I am applying for PhD program. If your are looking for PhD candidates
 My main research interest is Information Extraction. There are subtasks like Named Entity Recognition、Relaton Extraction、Coreference Resolution and Event Extractions under IE. I am also passionate about the Semanctics and Sytactics.
 
 ### Updates
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-<!-- # Header 1
-## Header 2 -->
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- June 2021 to Sep 2021: Working as Recommender Algorithm intern in Baidu.
+- Sep 2020 to pre: Remote intern in [StatNLP](https://statnlp-research.github.io/) supevised by Wei Lu(a super nice professor).
+- July 2017 to March 2019: After undergraduate, I worked as Java Engineer for almost two years.
 
 ### Jekyll Themes
 

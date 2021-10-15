@@ -1,4 +1,4 @@
-## Hi, this is Yao's homepage.
+### Hi, this is Yao's homepage.
 
 Hello, I am a final-year master student in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Before that, my undergraduate was in [Tianjin University](http://www.tju.edu.cn/).
 
@@ -6,15 +6,15 @@ Currently, I am applying for PhD program. If your are looking for PhD candidates
 
 My main research interest is Information Extraction. There are subtasks like Named Entity Recognition、Relaton Extraction、Coreference Resolution and Event Extractions under IE. I am also passionate about the Semanctics and Sytactics.
 
-### Markdown
+### Updates
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+<!-- # Header 1
+## Header 2 -->
 ### Header 3
 
 - Bulleted

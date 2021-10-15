@@ -7,9 +7,9 @@ Currently, I am applying for PhD program. If your are looking for PhD candidates
 My main research interest is Information Extraction. There are subtasks like Named Entity Recognition、Relaton Extraction、Coreference Resolution and Event Extractions under IE. I am also passionate about the Semanctics and Sytactics.
 
 ### Updates
-- June 2021 to Sep 2021: Working as Recommender Algorithm intern in Baidu.
+- June 2021 to Sep 2021: I worked as Recommender Algorithm intern in Baidu.
 - Sep 2020 to pre: Remote intern in [StatNLP](https://statnlp-research.github.io/) supevised by Wei Lu(a super nice professor).
-- July 2017 to March 2019: After undergraduate, I worked as Java Engineer for almost two years.
+- July 2017 to March 2019: After undergraduate, I worked as full-time Java Engineer for almost two years.
 
 ### Jekyll Themes
 
